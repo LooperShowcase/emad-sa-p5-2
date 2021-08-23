@@ -4,7 +4,7 @@ let y = 0;
 function setup() {
   // The size of our starting canvas: 400px width, 400px height
   bg = loadImage(
-    "https://preview.redd.it/duhprq2s1oq11.jpg?width=640&crop=smart&auto=webp&s=bea570ef3dc328be98f98b17f86bc6211ee7ae78"
+    "backImg.jpeg"
   );
   createCanvas(400, 400);
   angleMode(DEGREES);
